@@ -2,8 +2,6 @@
 
 ### Spotify Playing 
 
-[![Spotify](https://spotify-rendix-e0068hbnm-rendixmars.vercel.app/api/spotify)](https://open.spotify.com/user/yeu0jd67q14giap6b5iltgsy4?si=56d7f89090384f01)
-
 <a href="https://github.com/RendixMars/Spotify-Readme">
   <img src="https://spotify-readme.vercel.app/api" alt="Current Spotify Song">
 </a>
