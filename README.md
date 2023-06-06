@@ -5,7 +5,7 @@
 [![Spotify](https://spotify-rendix-e0068hbnm-rendixmars.vercel.app/api/spotify)](https://open.spotify.com/user/yeu0jd67q14giap6b5iltgsy4?si=56d7f89090384f01)
 
 <a href="https://github.com/RendixMars/Spotify-Rendix">
-  <img src="https://spotify-rendix.vercel.app/api" alt="Current Spotify Song">
+  <img src="https://spotify-readme-mocha-nine.vercel.app/api" alt="Current Spotify Song">
 </a>
 <!--
 **RendixMars/rendixmars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
