@@ -3,7 +3,7 @@
 ### Spotify Playing 
 
 <a href="https://github.com/RendixMars/Spotify-Readme">
-  <img src="https://spotify-readme-lol.vercel.app/api" alt="Current Spotify Song">
+  <img src="https://spotify-readme.vercel.app/api" alt="Current Spotify Song">
 </a>
 <!--
 **RendixMars/rendixmars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
