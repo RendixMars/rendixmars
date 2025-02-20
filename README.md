@@ -3,7 +3,7 @@
 ### Spotify Playing 
 
 <a href="https://rendixmars.pythonanywhere.com/link">
-  <img src="https://rendixmars.pythonanywhere.com?theme=dark&scan=true" style="visibility:visible;max-width:100%;" alt="Current Spotify Song">
+  <img src="https://rendixmars.pythonanywhere.com?theme=dark&scan=true&eq_color=rainbow" style="visibility:visible;max-width:100%;" alt="Current Spotify Song">
 </a>
 <!--
 **RendixMars/rendixmars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
