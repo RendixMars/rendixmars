@@ -1,7 +1,7 @@
 ### Hi there 👋
-🖥️ My own website ~ in future
-💾 OS     ~  Windows/Linux Ubuntu
-💽 Shell  ~  cmd, bash
+- 🖥️ My own website ~ in future
+- 💾 OS     ~  Windows/Linux Ubuntu
+- 💽 Shell  ~  cmd, bash
 
 ### Listening 🎶:
 <a href="https://rendixmars.pythonanywhere.com/link">
