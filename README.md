@@ -2,8 +2,8 @@
 
 ### Spotify Playing 
 
-<a class="spotifynow" href="https://github.com/RendixMars/Spotify-Readme">
-   <img src="https://spotify-readme-rendix.vercel.app/api?theme=dark&scan=true" alt="Current Spotify Song">
+<a href="https://rendixmars.pythonanywhere.com/link">
+  <img src="https://rendixmars.pythonanywhere.com?theme=dark&scan=true" style="visibility:visible;max-width:100%;" alt="Current Spotify Song">
 </a>
 <!--
 **RendixMars/rendixmars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
