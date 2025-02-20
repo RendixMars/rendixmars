@@ -1,10 +1,15 @@
 ### Hi there 👋
+🖥️ My own website ~ in future
+💾 OS     ~  Windows/Linux Ubuntu
+💽 Shell  ~  cmd, bash
 
-### Spotify Playing 
-
+### Listening 🎶:
 <a href="https://rendixmars.pythonanywhere.com/link">
   <img src="https://rendixmars.pythonanywhere.com?theme=dark&scan=true&eq_color=rainbow" style="visibility:visible;max-width:100%;" alt="Current Spotify Song">
 </a>
+
+
+
 <!--
 **RendixMars/rendixmars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
