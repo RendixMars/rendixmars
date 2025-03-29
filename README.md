@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🖥️ My own website ~ <a href='https://рендикс.space/'>-Tap-</a>
+- 🖥️ My own website ~ <a href='https://rendixmars.github.io/rendix-space/'>-Tap-</a>
 - 💾 OS     ~  Windows/Linux Ubuntu
 - 💽 Shell  ~  cmd, bash
 
